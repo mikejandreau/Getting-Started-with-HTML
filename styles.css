@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif; /* font-family chosen for the page */
+	color: #333333; /* base color for all text */
+}
+
+h1 {
+	font-size: 50px; /* sets font-size, in pixels */
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+p {
+	font-size: 18px;
+	color: #777777; /* because it comes later in the stylesheet, this color overrides the one set in the body above */
+}
+
+hr {
+
+}
+
+img {
+
+}
